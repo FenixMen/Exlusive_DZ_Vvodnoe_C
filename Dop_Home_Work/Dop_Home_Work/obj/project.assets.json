@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dop_Home_Work\\Dop_Home_Work\\Dop_Home_Work\\DZ_1_C_Vvedenie.csproj",
+      "projectUniqueName": "C:\\Dop_Home_Work\\Exlusive_DZ_Vvodnoe\\Dop_Home_Work\\Dop_Home_Work\\DZ_1_C_Vvedenie.csproj",
       "projectName": "DZ_1_C_Vvedenie",
-      "projectPath": "C:\\Dop_Home_Work\\Dop_Home_Work\\Dop_Home_Work\\DZ_1_C_Vvedenie.csproj",
+      "projectPath": "C:\\Dop_Home_Work\\Exlusive_DZ_Vvodnoe\\Dop_Home_Work\\Dop_Home_Work\\DZ_1_C_Vvedenie.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Dop_Home_Work\\Dop_Home_Work\\Dop_Home_Work\\obj\\",
+      "outputPath": "C:\\Dop_Home_Work\\Exlusive_DZ_Vvodnoe\\Dop_Home_Work\\Dop_Home_Work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
