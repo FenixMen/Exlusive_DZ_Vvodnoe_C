@@ -1,0 +1,13 @@
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\bin\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.exe
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\bin\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.deps.json
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\bin\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.runtimeconfig.json
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\bin\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.runtimeconfig.dev.json
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\bin\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.dll
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\bin\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.pdb
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.csprojAssemblyReference.cache
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.AssemblyInfoInputs.cache
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.AssemblyInfo.cs
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.csproj.CoreCompileInputs.cache
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.dll
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.pdb
+C:\Dop_Home_Work\Dop_Home_Work\Dop_Home_Work\obj\Debug\netcoreapp3.1\DZ_1_C_Vvedenie.genruntimeconfig.cache
